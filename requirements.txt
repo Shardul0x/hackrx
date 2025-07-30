@@ -1,9 +1,14 @@
 groq
 python-dotenv
 faiss-cpu
-unstructured
+unstructured[pdf,docx,email]
 pdf2image
+Pillow
 PyMuPDF
 streamlit
 python-docx
 extract-msg
+numpy
+requests
+fastapi
+uvicorn[standard] # [standard] includes common optional dependencies like 'httptools' and 'watchfiles'
