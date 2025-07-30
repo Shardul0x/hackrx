@@ -1,0 +1,9 @@
+groq
+python-dotenv
+faiss-cpu
+unstructured
+pdf2image
+PyMuPDF
+streamlit
+python-docx
+extract-msg
